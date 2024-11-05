@@ -83,8 +83,8 @@ This script will iterate over each line in `students.csv` and create three DNS A
 
 ----
 
-1. Delete the DNS entries in Azure DNS based on the same `students.csv` file used for creation. 
-2. This script will remove the A records for `HostDNS1`, `HostDNS2`, and `HostDNS3` associated with each student.
+#### Delete the DNS entries in Azure DNS based on the same `students.csv` file used for creation. 
+#### This script will remove the A records for `HostDNS1`, `HostDNS2`, and `HostDNS3` associated with each student.
 
 ### Script: `del.sh`
 
